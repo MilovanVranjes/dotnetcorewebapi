@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27825.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iMisho.API", "iMisho.API\iMisho.API.csproj", "{DFF52AC0-8520-46D0-9DE9-9BD53F82B4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF52AC0-8520-46D0-9DE9-9BD53F82B4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF52AC0-8520-46D0-9DE9-9BD53F82B4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF52AC0-8520-46D0-9DE9-9BD53F82B4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF52AC0-8520-46D0-9DE9-9BD53F82B4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1373865D-2EFD-4167-A906-65D18EDC5560}
+	EndGlobalSection
+EndGlobal
