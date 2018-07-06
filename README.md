@@ -1,0 +1,2 @@
+# ASP.NET Core 2.1 Web API
+ This is a very basic version of Web API with JWT (Json Web Tokens). When user register his account he can procide to login. After successful login user gets its token. Then he can create new product which is connected with user. After successful authentication, we take user id from token, find it in DB, and connect with product model. If we call get method to get all products from that user, we do the same thing. Get user id from token, find user in db, and then query all products with user from token. Very simple and useful.
